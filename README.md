@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ashenbro134
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# _Ashen-multi-device_
 
-<!---
-ashenbro134/ashenbro134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+<div align="center">
+   
+<a href="https://raganork.ml"><img align="center" src="https://i.imgur.com/wBpooOh.jpeg" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://bmc.link/ashenbro59h"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=ashenbro134&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a><br>
+<div>
